@@ -2,6 +2,8 @@
 
 Udemy Course: [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
+Code Reference: [theja-m/Data-Structures-and-Algorithms](https://github.com/theja-m/Data-Structures-and-Algorithms)
+
 ## Big O Notation
 - Time Complexity: How long an algorithm takes to run
 - Space Complexity: How much memory an algorithm uses
